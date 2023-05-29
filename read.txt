@@ -1,2 +1,2 @@
 must be v3 or higher
-run with vs code or idle
+run with idle
